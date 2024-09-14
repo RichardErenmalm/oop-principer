@@ -4,7 +4,10 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            User user = new User("username", "password");
+
+            Console.WriteLine(user.Username);
+            Console.WriteLine(user.Password);
         }
     }
 }
