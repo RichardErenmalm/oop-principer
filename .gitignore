@@ -1,0 +1,23 @@
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Mono Auto Generated)
+mono_crash.*
+
+# Mono auto generated files
+mono_crash.*
+
+# Build results
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+
+# Test Results
+[Tt]est[Rr]esult*/**
+
+# VS Code settings
+.vscode/
