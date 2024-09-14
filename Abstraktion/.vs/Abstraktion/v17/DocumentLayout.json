@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{309D9696-D555-4535-993D-F7F024A49649}|Abstraktion.csproj|c:\\users\\erenm\\desktop\\systemutveckling\\skolprojekt\\introduktion till oop\\oop-principer\\abstraktion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{309D9696-D555-4535-993D-F7F024A49649}|Abstraktion.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309D9696-D555-4535-993D-F7F024A49649}|Abstraktion.csproj|c:\\users\\erenm\\desktop\\systemutveckling\\skolprojekt\\introduktion till oop\\oop-principer\\abstraktion\\charachter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309D9696-D555-4535-993D-F7F024A49649}|Abstraktion.csproj|solutionrelative:charachter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Charachter.cs",
+              "DocumentMoniker": "C:\\Users\\erenm\\Desktop\\Systemutveckling\\Skolprojekt\\introduktion till OOP\\oop-principer\\Abstraktion\\Charachter.cs",
+              "RelativeDocumentMoniker": "Charachter.cs",
+              "ToolTip": "C:\\Users\\erenm\\Desktop\\Systemutveckling\\Skolprojekt\\introduktion till OOP\\oop-principer\\Abstraktion\\Charachter.cs",
+              "RelativeToolTip": "Charachter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T09:43:29.485Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\erenm\\Desktop\\Systemutveckling\\Skolprojekt\\introduktion till OOP\\oop-principer\\Abstraktion\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T06:29:43.68Z",
               "EditorCaption": ""
